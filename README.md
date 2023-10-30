@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JurianOnderwater
-- 🌱 I’m currently learning bioinformatics
-- 📫 How to reach me long arms
+- 🌱 I’m currently studying computer science in Tromsø
 
 <!---
 JurianOnderwater/JurianOnderwater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
